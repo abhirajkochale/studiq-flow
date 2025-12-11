@@ -80,7 +80,7 @@ const Landing = () => {
                 <Fingerprint className="w-8 h-8 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="font-bold text-3xl font-mono gradient-text">IntelliAttend</h1>
+                <h1 className="font-bold text-3xl font-mono gradient-text">HackTrack</h1>
                 <p className="text-sm text-muted-foreground">Secure, smart & tamper-proof attendance</p>
               </div>
             </div>
