@@ -1,4 +1,4 @@
-IntelliAttend
+HackTrack
 
 Problem statement: 
 Intelligent Attendance Management System that automates the process of recording and managing attendance using technologies such as facial recognition or QR codes, or NFC. The system should ensure secure, accurate, and tamper-proof attendance marking while providing a seamless user experience. Additionally, it must incorporate timetable-based scheduling, enabling attendance to be automatically linked to class or session schedules. Administrators should be able to generate reports, manage user data, and monitor attendance patterns efficiently.
