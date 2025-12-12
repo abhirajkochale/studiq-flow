@@ -151,3 +151,5 @@ Future Enhancements:
 •	Push notifications for low attendance
 
 •	Student Selfie clicking option
+
+Link for the deployed app - https://studiq-flowfinal.vercel.app/
